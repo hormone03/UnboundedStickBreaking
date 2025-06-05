@@ -84,8 +84,8 @@ def tsne_plot(features_dict, model):
 
 #parametrization = parametrizations['GD'] 
 #parametrization = parametrizations['gdwo'] 
-#parametrization = parametrizations['Dir'] #Best error is 133.43, epoch 82
-#parametrization = parametrizations['GEM'] # epoch 98 Best reconstruction error is 205.83880883789064
+#parametrization = parametrizations['Dir'] 
+#parametrization = parametrizations['GEM'] 
 #parametrization = parametrizations['Kumar']
 #parametrization = parametrizations['GLogit']
 #parametrization = parametrizations['gaussian']
