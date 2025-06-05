@@ -3,9 +3,6 @@ import torch
 import os
 from utils import parametrizations
 from VAEs import StickBreakingVAE
-#import torchvision
-#import numpy as np
-#from torchvision import transforms
 import json
 
 
